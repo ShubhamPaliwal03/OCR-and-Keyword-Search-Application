@@ -36,4 +36,4 @@ To run this application, you need the following:
 
 ## Deployed Link
 
-[text](https://huggingface.co/spaces/ShubhamPaliwal/OCR_and_Keyword_Search_Application)
+[Link To Live Deployment of Application](https://huggingface.co/spaces/ShubhamPaliwal/OCR_and_Keyword_Search_Application)
