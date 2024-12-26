@@ -83,4 +83,4 @@ The application will be accessible at http://127.0.0.1:7860 in your web browser.
 
 This project is licensed under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) License
 
-[Link To License]()
+[Link To License](https://github.com/ShubhamPaliwal03/OCR-and-Keyword-Search-Application/blob/main/LICENSE)
