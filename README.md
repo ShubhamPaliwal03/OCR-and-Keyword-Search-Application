@@ -71,7 +71,7 @@ To run this application, you need the following:
 To run the application locally, use the following command:
 
 ```bash
-python main.py
+python app.py
 ```
 The application will be accessible at http://127.0.0.1:7860 in your web browser.
 
