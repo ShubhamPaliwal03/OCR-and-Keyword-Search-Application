@@ -8,7 +8,7 @@ This is a web application that allows users to upload images and perform Optical
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Running the Application Locally](#running-the-application-locally)
-- [Deployment](#deployment)
+- [Deployment](#deployed-link)
 - [License](#license)
 
 ## Features
